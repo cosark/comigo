@@ -138,6 +138,10 @@ docker-compose up -d
 
 For more details, see the complete [Docker documentation](docs/docker/README.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Comigo/)
+
 ## Usage
 
 [User manual](https://comigo.xyz/manual/en-US/)
